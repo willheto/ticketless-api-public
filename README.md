@@ -1,5 +1,7 @@
 ## Ticketless api
 
+## THIS IS JUST A CODE PREVIEW WITH API KEYS ETC. REMOVED. YOU MAY FIND IT TO WORK JUST FINE, OR NOT
+
 To get this api running locally:
 
 1. Install virtualbox and vagrant
